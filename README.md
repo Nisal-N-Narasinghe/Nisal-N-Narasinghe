@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nisal-Narasinghe
 - 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ...programming
+- 🌱 I’m currently learning ...Programming
 - 💞️ I’m looking to collaborate on ... IT company
 - 📫 How to reach me ... narasinghenisal24@gmail.com
 
