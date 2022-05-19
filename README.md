@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nisal-Narasinghe
-- 📫 How to reach me ... narasinghenisal24@gmail.com
+- 📫 How to reach me ... nisal.nn24@gmail.com
 
 <!---
 Nisal-Narasinghe/Nisal-Narasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
