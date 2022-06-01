@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nisal.nn24@gmail.com**
 
-<h3 align="left">Connect with me By using my email address</h3>
 <p align="left">
 </p>
 
