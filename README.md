@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DCTYPE html>
 <html>
   <body>
 <h1 align="center">Hi 👋, I'm Nisal Nirmitha Narasinghe</h1>
