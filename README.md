@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nisal Nirmitha Narasinghe</h1>
-<h3 align="center">A student from Sri Lanka</h3>
+<marquee><h1 align="center">Hi 👋, I'm Nisal Nirmitha Narasinghe</h1></marquee>
+<h3 align="center">Sri Lanka</h3>
 
 - 🔭 I’m currently working on [Online Banking System](https://github.com/PehesaraniWKA/Online-banking-system)
 
