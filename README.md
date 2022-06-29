@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nisal Nirmitha Narasinghe</h1>
 <h3 align="center">Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Basic PHP Lesson Series](https://github.com/PehesaraniWKA/Online-banking-system)
+- 🔭 I’m currently working on [Basic PHP Lesson Series](https://github.com/Nisal-Narasinghe/PHP-Lessons)
 
 - 🌱 I’m currently learning **BSc hons in Information Technology at SLIIT-Faculty of computing**
 
