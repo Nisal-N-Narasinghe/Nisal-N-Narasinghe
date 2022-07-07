@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nisal Nirmitha Narasinghe</h1>
+<h1 align="center">Hi  👋, I'm Nisal Nirmitha Narasinghe</h1>
 <h3 align="center">Sri Lanka</h3>
 
 - 🔭 I’m currently working on [Basic JS Tutorials](https://github.com/Nisal-Narasinghe/Java-Script-Tutorials)
