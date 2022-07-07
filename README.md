@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **BSc hons in Information Technology at SLIIT-Faculty of computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nisal-Narasinghe](https://github.com/Nisal-N-Narasinghe)
+- 👨‍💻 All of my projects are available at [Github/Nisal-N-Narasinghe](https://github.com/Nisal-N-Narasinghe)
 
 - 📫 How to reach me **nisal.nn24@gmail.com**
 
