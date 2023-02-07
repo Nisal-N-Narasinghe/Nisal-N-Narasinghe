@@ -2,7 +2,7 @@
 <h1 align="center">Hi  👋, I'm Nisal Nirmitha Narasinghe</h1>
 <h3 align="center">Sri Lanka</h3>
 
-- 🔭 I’m currently working on [E Channeling](https://github.com/Nisal-N-Narasinghe/E-Channeling)
+- 🔭 I’m currently working on [MERN Projects](https://github.com/Nisal-N-Narasinghe/Vehicle-service-and-agro-machinery-management-system)
 
 - 🌱 I’m currently learning **BSc hons in Information Technology at SLIIT-Faculty of computing**
 
