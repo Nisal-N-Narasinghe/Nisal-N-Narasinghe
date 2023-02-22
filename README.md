@@ -66,4 +66,6 @@
 
 <br/>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&show_icons=true&locale=en" alt="nethvish" /></p>
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Nisal-N-Narasinghe
+
