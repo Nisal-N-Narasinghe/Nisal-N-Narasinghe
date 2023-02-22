@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently undergraduate at *SLIIT*
 
-- 📫 How to reach me *janinduravishka1999@gmail.com*
+- 📫 How to reach me *nisal.nn24@gmail.com*
 
 - ⚡ Fun fact *I am funny*
 
