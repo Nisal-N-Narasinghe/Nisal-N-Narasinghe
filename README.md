@@ -74,4 +74,5 @@
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact)]
+
