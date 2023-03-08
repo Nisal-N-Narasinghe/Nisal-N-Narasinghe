@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There👋&fontSize=80&fontAlign=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There👋&fontSize=80&fontAlign=70&animation=twinkling" />
 
 
 ### 💻I'm Nisal Narasinghe ![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=plastic&color=blue)
