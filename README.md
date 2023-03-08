@@ -65,14 +65,10 @@
 
 <br/>  
 
-### :fire: My Stats :
+### 📊 :fire: My Stats :
 <div align="center"> 
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisal-N-Narasinghe&theme=dark&background=000000)     ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&show_icons=true&theme=radical)
-
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact)
   
