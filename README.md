@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### 💻 Hi there, I'm Nisal Narasinghe 👋 ![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=plastic&color=blue)
 ## I'm a Web Designer, Software Developer and a Tech Geek
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From SRI LANKA!!!
