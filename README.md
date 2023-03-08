@@ -66,7 +66,7 @@
 <br/>  
 
 ### :fire: My Stats :
-
+<div> 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisal-N-Narasinghe&theme=dark&background=000000)
 
 
@@ -74,4 +74,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact)
-
+</div>
