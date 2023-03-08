@@ -1,4 +1,4 @@
-### Hi there, I'm Nisal Narasinghe 👋
+### Hi there, I'm Nisal Narasinghe 👋 ![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=plastic&color=blue)
 ## I'm a Web Designer, Software Developer and a Tech Geek!!!
 
 * 🎓 undergraduate at Sri Lanka Institute of Information Technology
@@ -6,7 +6,7 @@
 * 👨🏻‍💻 currently learning everything 😅
 * ✨ Fun fact: love to travel
 
-![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=plastic&color=blueviolet)
+
 
 ## Connect with me  
 <div>
