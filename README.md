@@ -78,5 +78,5 @@
   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi%20There👋&fontSize=80&fontAlign=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header" />
 
