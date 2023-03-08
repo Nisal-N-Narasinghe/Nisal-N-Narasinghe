@@ -66,7 +66,7 @@
 <br/>  
 
 ### :fire: My Stats :
-<div> 
+<div align="center"> 
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisal-N-Narasinghe&theme=dark&background=000000)
 
