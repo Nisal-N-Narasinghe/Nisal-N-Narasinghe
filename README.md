@@ -6,6 +6,7 @@
 * 👨🏻‍💻 currently learning everything 😅
 * ✨ Fun fact: love to travel
 
+![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=flat-square)
 
 ## Connect with me  
 <div>
