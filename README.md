@@ -78,5 +78,5 @@
   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Nisal%20Narasinghe&fontSize=40&animation=twinkling&fontColor=d6ace6" />
+![footer](<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Nisal%20Narasinghe&fontSize=40&animation=twinkling&fontColor=d6ace6" />)
 
