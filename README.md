@@ -29,7 +29,7 @@
 ##  :hammer_and_wrench: Languages and Tools
  
 ### Frontend:  
-<div>  
+<div>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -77,4 +77,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact)
   
 </div>
+
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-180)
