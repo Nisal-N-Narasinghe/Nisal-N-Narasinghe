@@ -77,6 +77,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact)
   
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Nisal%20Narasinghe&fontSize=20&animation=twinkling&fontColor=d6ace6" />
+
 
