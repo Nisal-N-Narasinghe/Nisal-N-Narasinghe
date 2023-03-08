@@ -1,5 +1,5 @@
 ### Hi there, I'm Nisal Narasinghe 👋 ![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=plastic&color=blue)
-## I'm a Web Designer, Software Developer and a Tech Geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> In SRI LANKA!!!
+## I'm a Web Designer, Software Developer and a Tech Geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From SRI LANKA!!!
 
 * 🎓 undergraduate at Sri Lanka Institute of Information Technology
 * ⚡ looking forward to creating a career in web & software development.
