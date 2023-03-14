@@ -76,6 +76,6 @@
 
 </div>
 
-![ Alt text](name-of-gif-file. gif)
+![ Alt text](my.gif)
 
 
