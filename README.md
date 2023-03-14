@@ -76,7 +76,7 @@
 
 </div>
 
-![ Alt text](working.gif)
+![ Alt text](working.gif& height="50")
 
 
 
