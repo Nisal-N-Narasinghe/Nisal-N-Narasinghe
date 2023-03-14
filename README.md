@@ -76,7 +76,7 @@
 
 </div>
 
-![ Alt text](my.gif)
+![ Alt text](working.gif)
 
-![snake gif](https://github.com/Nisal-N-Narasinghe/Nisal-N-Narasinghe/blob/output/github-contribution-grid-snake.gif)
+
 
