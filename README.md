@@ -77,5 +77,13 @@
 </div>
 
 ![Abcs](_Gifs/Examples4.gif)
+![Example1](_Gifs/Examples1.gif)
+![Example2](_Gifs/Examples2.gif)
+
+<img src="_Gifs/Community 2_3.gif" />
+
+![Example3](_Gifs/Examples3.gif)
+
+![Abcs](_Gifs/Examples4.gif)
 
 
