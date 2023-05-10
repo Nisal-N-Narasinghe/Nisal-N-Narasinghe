@@ -76,6 +76,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisal-N-Narasinghe&theme=dark&background=000000&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
 <!--![ Alt text](gitcat.gif) -->
