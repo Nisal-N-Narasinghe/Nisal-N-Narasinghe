@@ -72,15 +72,23 @@
 ### 📊 :fire: My Stats :
 <div> 
 
+ 
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisal-N-Narasinghe&theme=dark&background=000000&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&layout=compact&hide_border=true&langs_count=10"          alt="JustSong's Top Langs" width="37%" /> 
   
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisal-N-Narasinghe&theme=dark&background=000000&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+ 
+
+<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nisal-N-Narasinghe&theme=tokyonight) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nisal-N-Narasinghe&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nisal-N-Narasinghe&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=donut&theme=tokyonight)  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
+
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=donut&theme=tokyonight)  -->
+
   
 
 </div>
