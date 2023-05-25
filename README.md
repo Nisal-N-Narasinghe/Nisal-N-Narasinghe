@@ -78,8 +78,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nisal-N-Narasinghe&theme=tokyonight)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nisal-N-Narasinghe&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=donut&theme=tokyonight) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nisal-N-Narasinghe&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=donut&theme=tokyonight) 
   
 
 </div>
