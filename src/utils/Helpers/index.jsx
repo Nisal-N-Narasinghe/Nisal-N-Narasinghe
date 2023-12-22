@@ -14,12 +14,15 @@ export const socialIcons = [
   },
   {
     path: "images/Header/LinkedIn.png",
+    link: "https://www.linkedin.com/in/nisal-narasinghe/",
   },
   {
     path: "images/Header/Instagram.png",
+    link: "https://www.instagram.com/_nisal_n_narasinghe_/",
   },
   {
     path: "images/Header/FaceBook.png",
+    link: "https://www.facebook.com/nisal.narasinghe/",
   },
 ];
 
