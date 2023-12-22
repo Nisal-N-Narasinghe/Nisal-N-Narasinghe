@@ -10,10 +10,15 @@ module.exports = {
       width: {
         socialIconsContainer: "340px",
         navLinkContainer: "600px",
+        homeBGImage: "400px",
+      },
+      height: {
+        homeBGImage: "560px",
       },
       fontSize: {
         navLinks: "24px",
         navLinksHover: "36px",
+        footer: "16px",
       },
     },
   },
