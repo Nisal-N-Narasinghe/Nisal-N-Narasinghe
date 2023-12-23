@@ -2,6 +2,7 @@ import { navLinks, socialIcons } from "../../utils/Helpers";
 import React, { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   const [showMenu, setShowMenu] = useState(false);
@@ -50,15 +51,8 @@ const Header = () => {
             navLinks.map((link, index) => (
               <div
                 key={index}
-                className='text-white font-bold text-navLinks  xl:pl-20 hover:scale-125 hover:duration-300 hover:ease-in-out hover:cursor-pointer transition-all duration-500'
-                onClick={() => {
-                  console.log(`Clicked on: ${link.text}`);
-
-                  setTimeout(() => {
-                    setShowMenu(true);
-                  }, 3000);
-                }}>
-                {link.text}
+                className='text-white font-bold text-navLinks  xl:pl-20 hover:scale-125 hover:duration-300 hover:ease-in-out hover:cursor-pointer transition-all duration-500'>
+                <Link to={link.url}>{link.text}</Link>
               </div>
             ))
           )}

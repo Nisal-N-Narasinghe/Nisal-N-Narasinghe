@@ -32,11 +32,11 @@ export const navLinks = [
     text: "HOME",
   },
   {
-    url: "/about",
+    url: "/projects",
     text: "PROJECTS",
   },
   {
-    url: "/projects",
+    url: "/achievements",
     text: "ACHIEVEMENTS",
   },
 ];
