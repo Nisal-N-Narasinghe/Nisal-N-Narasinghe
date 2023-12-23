@@ -2,6 +2,7 @@ import React from "react";
 import { Route, BrowserRouter, Routes } from "react-router-dom";
 import Home from "./views/Home";
 import Projects from "./views/Projects";
+import Achievements from "./views/Achievement";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/projects' element={<Projects />} />
+            <Route path='/achievements' element={<Achievements />} />
           </Routes>
         </header>
       </BrowserRouter>
