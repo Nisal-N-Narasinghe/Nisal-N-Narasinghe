@@ -1,4 +1,4 @@
-import { navLinks, socialIcons } from "../../utils/Helpers";
+import { handleMenuClick, navLinks, socialIcons } from "../../utils/Helpers";
 import React, { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
@@ -20,11 +20,12 @@ const Header = () => {
       window.removeEventListener("resize", handleResize);
     };
   }, []);
+
   return (
     <header>
       <div className='lg:container    lg:mx-auto pt-4 lg:p-8 xl:px-16'>
         <div className='grid  grid-cols-2   lg:p-4   p-6'>
-          <div className='grid grid-cols-4 gap-x-0 md:gap-socialIcons w-socialIconsContainer '>
+          <div className='grid grid-cols-4 gap-x-0 md:gap-socialIcons md:w-socialIconsContainer '>
             {socialIcons.map((icon, index) => (
               <div key={index}>
                 <a href={icon.link} className='decoration-transparent'>
@@ -45,7 +46,7 @@ const Header = () => {
                 size='2x'
                 color='white'
                 className='justify-self-end'
-                onClick={() => setShowMenu(!showMenu)}
+                onClick={() => handleMenuClick(setShowMenu)}
               />
             ) : (
               <div className=' md:flex md:space-x-6'>
