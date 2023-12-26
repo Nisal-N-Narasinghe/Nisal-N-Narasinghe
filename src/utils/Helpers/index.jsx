@@ -13,6 +13,17 @@ export const handleSearch = (items, searchQuery) => {
   return filteredRepositories;
 };
 
+// HelperFunctions.js
+
+export const handleMenuClick = (setShowMenu) => {
+  // Set a timeout to hide the menu icon for a duration
+  setShowMenu(false);
+
+  setTimeout(() => {
+    setShowMenu(true);
+  }, 3000);
+};
+
 //Social Media Icons
 export const socialIcons = [
   {
