@@ -4,18 +4,28 @@ import Header from "../../components/Header";
 import { Line } from "react-chartjs-2";
 import { CategoryScale } from "chart.js";
 import Chart from "chart.js/auto";
+import FlyinInText from "../../utils/Animations/FlyinInText";
+
 Chart.register(CategoryScale);
 
 const Projects = () => {
   const [repositories, setRepositories] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [page, setPage] = useState(1);
+  const [page, setPage] = useState(0);
+  const [totalRepositories, setTotalRepositories] = useState(0);
 
   useEffect(() => {
     const fetchRepositories = async () => {
       try {
+        // Fetch user data to get the total repository count
+        const userResponse = await fetch(
+          "https://api.github.com/users/Nisal-N-Narasinghe"
+        );
+        const userData = await userResponse.json();
+        setTotalRepositories(userData.public_repos);
+
         const response = await fetch(
-          `https://api.github.com/users/Nisal-N-Narasinghe/repos?sort=updated&page=${page}&per_page=2`
+          `https://api.github.com/users/Nisal-N-Narasinghe/repos?sort=updated&page=${page}`
         );
         const data = await response.json();
 
@@ -34,6 +44,7 @@ const Projects = () => {
           ...prevRepos,
           ...repositoriesWithStats,
         ]);
+
         setLoading(false);
       } catch (error) {
         console.error("Error fetching GitHub repositories:", error);
@@ -71,6 +82,16 @@ const Projects = () => {
       <Header />
 
       <div className='container mx-auto p-8'>
+        {/* <input
+          type='text'
+          placeholder='Search repositories'
+          className='bg-gray-900  px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500'
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+        />
+        <button onClick={handleSearch(repositories, searchQuery)}>
+          Search
+        </button> */}
         {loading ? (
           <p className='text-white'>Loading repositories...</p>
         ) : (
@@ -117,12 +138,14 @@ const Projects = () => {
         {!loading && (
           <button
             onClick={handleSeeMore}
-            className='mt-4 bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600'>
+            className='mt-4 bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 '>
             See More
           </button>
         )}
       </div>
-
+      <h2 className='text-center mb-2'>
+        <FlyinInText textNoraml={`Total Repos ${totalRepositories}`} />
+      </h2>
       <Footer />
     </div>
   );

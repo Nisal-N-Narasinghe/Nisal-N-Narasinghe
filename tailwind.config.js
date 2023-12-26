@@ -7,7 +7,7 @@ module.exports = {
         socialIcons: "54px",
         navLinks: "30px",
         homeBG: "400px",
-        header: "50px",
+        header: "250px",
       },
       width: {
         socialIconsContainer: "340px",
@@ -18,7 +18,8 @@ module.exports = {
         homeBGImage: "660px",
       },
       fontSize: {
-        navLinks: "24px",
+        navLinkslg: "24px",
+        navLinksmd: "18px",
         navLinksHover: "36px",
         footer: "16px",
         homeName: "48px",

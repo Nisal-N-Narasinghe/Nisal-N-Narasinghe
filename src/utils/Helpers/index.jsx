@@ -6,6 +6,13 @@ export const truncateText = (text, maxLength) => {
   return text.substr(0, maxLength) + "...";
 };
 
+export const handleSearch = (items, searchQuery) => {
+  const filteredRepositories = items.filter((repo) =>
+    repo.name.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+  return filteredRepositories;
+};
+
 //Social Media Icons
 export const socialIcons = [
   {
