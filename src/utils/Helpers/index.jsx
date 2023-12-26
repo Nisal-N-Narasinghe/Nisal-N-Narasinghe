@@ -6,6 +6,13 @@ export const truncateText = (text, maxLength) => {
   return text.substr(0, maxLength) + "...";
 };
 
+export const handleSearch = (items, searchQuery) => {
+  const filteredRepositories = items.filter((repo) =>
+    repo.name.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+  return filteredRepositories;
+};
+
 //Social Media Icons
 export const socialIcons = [
   {
@@ -14,12 +21,15 @@ export const socialIcons = [
   },
   {
     path: "images/Header/LinkedIn.png",
+    link: "https://www.linkedin.com/in/nisal-narasinghe/",
   },
   {
     path: "images/Header/Instagram.png",
+    link: "https://www.instagram.com/_nisal_n_narasinghe_/",
   },
   {
     path: "images/Header/FaceBook.png",
+    link: "https://www.facebook.com/nisal.narasinghe/",
   },
 ];
 
@@ -29,11 +39,11 @@ export const navLinks = [
     text: "HOME",
   },
   {
-    url: "/about",
+    url: "/projects",
     text: "PROJECTS",
   },
   {
-    url: "/projects",
+    url: "/achievements",
     text: "ACHIEVEMENTS",
   },
 ];
