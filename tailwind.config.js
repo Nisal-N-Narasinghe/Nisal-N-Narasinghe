@@ -15,7 +15,7 @@ module.exports = {
         homeBGImage: "450px",
       },
       height: {
-        homeBGImage: "660px",
+        homeBGImage: "600px",
       },
       fontSize: {
         navLinkslg: "24px",

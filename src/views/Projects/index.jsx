@@ -13,27 +13,45 @@ const Projects = () => {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(0);
   const [totalRepositories, setTotalRepositories] = useState(0);
+  const githubToken = process.env.REACT_APP_GITHUB_TOKEN;
 
   useEffect(() => {
     const fetchRepositories = async () => {
       try {
         // Fetch user data to get the total repository count
         const userResponse = await fetch(
-          "https://api.github.com/users/Nisal-N-Narasinghe"
+          `https://api.github.com/users/Nisal-N-Narasinghe`,
+          {
+            headers: {
+              Authorization: `token ${githubToken}`,
+            },
+          }
         );
+
         const userData = await userResponse.json();
         setTotalRepositories(userData.public_repos);
 
         const response = await fetch(
-          `https://api.github.com/users/Nisal-N-Narasinghe/repos?sort=updated&page=${page}`
+          `https://api.github.com/users/Nisal-N-Narasinghe/repos?sort=updated&page=${page}&per_page=2`,
+          {
+            headers: {
+              Authorization: `token ${githubToken}`,
+            },
+          }
         );
+
         const data = await response.json();
 
         // Fetch additional statistics for each repository
         const repositoriesWithStats = await Promise.all(
           data.map(async (repo) => {
             const statsResponse = await fetch(
-              `https://api.github.com/repos/Nisal-N-Narasinghe/${repo.name}/stats/participation`
+              `https://api.github.com/repos/Nisal-N-Narasinghe/${repo.name}/stats/participation`,
+              {
+                headers: {
+                  Authorization: `token ${githubToken}`,
+                },
+              }
             );
             const statsData = await statsResponse.json();
             return { ...repo, stats: statsData };
@@ -53,7 +71,7 @@ const Projects = () => {
     };
 
     fetchRepositories();
-  }, [page]);
+  }, [page, githubToken]);
 
   const handleSeeMore = () => {
     setPage((prevPage) => prevPage + 1);

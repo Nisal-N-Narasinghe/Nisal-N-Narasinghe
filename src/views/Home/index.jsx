@@ -9,13 +9,13 @@ const Home = () => {
       <Header />
       <div className='grid grid-cols-2 xl:gap-homeBG'>
         <div>
-          <div className='text-white text-homeName font-extrabold text-left ml-16 w-96 mt-24 '>
+          <div className='text-white text-homeName font-extrabold text-left ml-4 md:ml-16 w-96 mt-24 '>
             <FlyinInText textExtraBold='Nisal Nirmitha Narasinghe' />
           </div>
-          <div className='text-developertxt text-left ml-16 mt-16 text-homeName font-karla'>
+          <div className='text-developertxt text-left ml-4 md:ml-16 mt-16 text-homeName font-karla'>
             <FlyinInText textNoraml='I Am' textExtraBold=' a Developer' />
           </div>
-          <p className='text-left text-white ml-16'>
+          <p className='text-left text-white ml-4 md:ml-16 mb-4 lg:mb-0'>
             <TypingAnimation
               text=' As an aspiring software engineering student with a solid academic
             background, I am looking for an internship opportunity to develop my
@@ -34,7 +34,7 @@ const Home = () => {
           <img
             src='images/Home/BackgroundImage.png'
             alt='myImage'
-            class='w-homeBGImage h-homeBGImage mt-16 ml-16 rounded-3xl'
+            class='md:w-homeBGImage md:h-homeBGImage mt-96 md:mt-48 lg:mt-16 ml-0 md:ml-8 rounded-3xl'
           />
         </div>
       </div>
