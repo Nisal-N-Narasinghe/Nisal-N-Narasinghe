@@ -12,7 +12,7 @@ const Achievements = () => {
           alt='Under Construction'
           className='mx-auto spinning-image'
         />
-        <h1 className='text-white text-center mb-40 '>Under Constructing</h1>
+        <h1 className='text-white text-center mb-40 '>Under Construction</h1>
       </div>
       <Footer />
     </div>
