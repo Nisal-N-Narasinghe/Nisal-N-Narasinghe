@@ -5,8 +5,7 @@ import { Line } from "react-chartjs-2";
 import { CategoryScale } from "chart.js";
 import Chart from "chart.js/auto";
 import FlyinInText from "../../utils/Animations/FlyinInText";
-
-import { Input } from "reactstrap";
+import Modal from "react-modal";
 
 Chart.register(CategoryScale);
 
@@ -105,15 +104,30 @@ const Projects = () => {
       <Header />
 
       <div className='container mx-auto p-8'>
-        <div className=' grid md:grid-cols-2 md:justify-items-center'>
-          <Input
-            type='search'
-            className='md:w-56 text-black mb-4 rounded-sm p-2'
-            placeholder='Search'
-            onChange={(e) => setQuery(e.target.value)}
-          />
+        <div className='grid md:grid-cols-2   mb-4 mr-4 lg:mr-0'>
+          <div className='relative mb-4'>
+            <input
+              type='search'
+              className='w-full lg:w-serchSortlg xl:w-serchSortxl h-10 bg-gray-900 text-white rounded-md px-4 py-2 pl-10 outline-none focus:ring focus:border-blue-500'
+              placeholder='Search repositories...'
+              onChange={(e) => setQuery(e.target.value)}
+            />
+            <svg
+              xmlns='http://www.w3.org/2000/svg'
+              fill='none'
+              viewBox='0 0 24 24'
+              stroke='currentColor'
+              className='absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500 h-5 w-5'>
+              <path
+                strokeLinecap='round'
+                strokeLinejoin='round'
+                strokeWidth='2'
+                d='M4 6h16M4 12h16m-7 6h7'
+              />
+            </svg>
+          </div>
           <select
-            className='md:w-56 text-gray-500 mb-4 rounded-sm p-2 md:ml-4'
+            className='w-full lg:w-serchSortlg xl:w-serchSortxl lg:justify-self-end h-10  bg-gray-900 text-white rounded-md   md:ml-4 lg:ml-0 p-2'
             onChange={(e) => setQuerySort(e.target.value)}>
             <option hidden value=''>
               Sort
@@ -138,7 +152,7 @@ const Projects = () => {
           <ul className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
             {repositories
               .filter((repo) =>
-                repo.language?.toLowerCase().includes(query.toLowerCase())
+                repo.name?.toLowerCase().includes(query.toLowerCase())
               )
               .filter((repo) =>
                 repo.language?.toLowerCase().includes(querySort.toLowerCase())
@@ -186,10 +200,10 @@ const Projects = () => {
         )}
 
         {visible < repositories.length && (
-          <div className='w-max'>
+          <div className='flex justify-center'>
             <button
               onClick={handleSeeMore}
-              className=' md:w-28 mt-4  bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 '>
+              className='mt-4 h-10 bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 '>
               See More
             </button>
           </div>
