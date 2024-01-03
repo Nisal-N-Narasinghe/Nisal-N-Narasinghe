@@ -13,6 +13,8 @@ module.exports = {
         socialIconsContainer: "340px",
         navLinkContainer: "620px",
         homeBGImage: "450px",
+        serchSortxl: "360px",
+        serchSortlg: "230px",
       },
       height: {
         homeBGImage: "600px",

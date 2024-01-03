@@ -6,7 +6,7 @@ import Achievements from "./views/Achievement";
 
 export default function App() {
   return (
-    <div className='App bg-black h-screen'>
+    <div className='App bg-black h-screen '>
       <BrowserRouter>
         <header className='App-header'>
           <Routes>

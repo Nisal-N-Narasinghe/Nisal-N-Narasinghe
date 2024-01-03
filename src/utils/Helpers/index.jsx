@@ -58,3 +58,33 @@ export const navLinks = [
     text: "ACHIEVEMENTS",
   },
 ];
+
+export const languages = [
+  "JavaScript",
+  "TypeScript",
+  "Kotlin",
+  "HTML",
+  "CSS",
+  "Java",
+  "C",
+  "C++",
+  "C#",
+  "PHP",
+];
+export const generateChartData = (stats) => {
+  const labels = stats.all.map((_, index) => index + 1);
+  const data = stats.all.map((value) => value);
+  return {
+    labels,
+    datasets: [
+      {
+        label: "Commits",
+        data,
+        borderColor: "rgba(75, 192, 192, 1)",
+        borderWidth: 2,
+
+        fill: false,
+      },
+    ],
+  };
+};
