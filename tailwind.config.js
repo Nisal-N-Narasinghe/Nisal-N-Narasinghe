@@ -15,6 +15,7 @@ module.exports = {
         homeBGImage: "450px",
         serchSortxl: "360px",
         serchSortlg: "230px",
+        serchSortmd: "300px",
       },
       height: {
         homeBGImage: "600px",
