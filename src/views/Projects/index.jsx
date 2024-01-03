@@ -86,7 +86,7 @@ const Projects = () => {
       <Header />
 
       <div className='container mx-auto p-8'>
-        <div className='grid md:grid-cols-2   mb-4 mr-4 lg:mr-0'>
+        <div className='grid md:grid-cols-2   mb-4 md:mr-4 lg:mr-0'>
           <div className='relative mb-4'>
             <input
               type='search'
@@ -109,7 +109,7 @@ const Projects = () => {
             </svg>
           </div>
           <select
-            className='w-full lg:w-serchSortlg xl:w-serchSortxl lg:justify-self-end h-10  bg-gray-900 text-white rounded-md   md:ml-4 lg:ml-0 p-2'
+            className='w-full lg:w-serchSortlg xl:w-serchSortxl lg:justify-self-end h-10  bg-gray-900 text-white rounded-md   md:ml-4 lg:ml-0 p-2 '
             onChange={(e) => setQuerySort(e.target.value)}>
             <option hidden value=''>
               Sort
