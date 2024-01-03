@@ -6,6 +6,7 @@ import { CategoryScale } from "chart.js";
 import Chart from "chart.js/auto";
 import FlyinInText from "../../utils/Animations/FlyinInText";
 import { generateChartData, languages } from "../../utils/Helpers";
+import Dropdown from "../../components/DropDown";
 
 Chart.register(CategoryScale);
 
@@ -86,11 +87,11 @@ const Projects = () => {
       <Header />
 
       <div className='container mx-auto p-8'>
-        <div className='grid md:grid-cols-2   mb-4 md:mr-4 lg:mr-0'>
+        <div className='grid md:grid-cols-2   mb-4  lg:mr-0'>
           <div className='relative mb-4'>
             <input
               type='search'
-              className='w-full lg:w-serchSortlg xl:w-serchSortxl h-10 bg-gray-900 text-white rounded-md px-4 py-2 pl-10 outline-none focus:ring focus:border-blue-500'
+              className='w-full md:w-serchSortmd lg:w-serchSortlg xl:w-serchSortxl h-10 bg-gray-900 border border-gray-900 hover:border-blue-500 text-white rounded-md px-4 py-2 pl-10 outline-none focus:ring focus:border-blue-500'
               placeholder='Search repositories...'
               onChange={(e) => setQuery(e.target.value)}
             />
@@ -104,11 +105,11 @@ const Projects = () => {
                 strokeLinecap='round'
                 strokeLinejoin='round'
                 strokeWidth='2'
-                d='M4 6h16M4 12h16m-7 6h7'
+                d='M21 21l-5.2-5.2a8 8 0 1 0-1.4 1.4L21 21z'
               />
             </svg>
           </div>
-          <select
+          {/* <select
             className='w-full lg:w-serchSortlg xl:w-serchSortxl lg:justify-self-end h-10  bg-gray-900 text-white rounded-md   md:ml-4 lg:ml-0 p-2 '
             onChange={(e) => setQuerySort(e.target.value)}>
             <option hidden value=''>
@@ -120,7 +121,19 @@ const Projects = () => {
                 {language}
               </option>
             ))}
-          </select>
+          </select> */}
+          <div className='md:justify-self-end'>
+            <Dropdown
+              options={[
+                { value: "", label: "All" },
+                ...languages.map((language) => ({
+                  value: language,
+                  label: language,
+                })),
+              ]}
+              onSelect={(selectedValue) => setQuerySort(selectedValue)}
+            />
+          </div>
         </div>
 
         {loading ? (
