@@ -5,7 +5,7 @@ import { Line } from "react-chartjs-2";
 import { CategoryScale } from "chart.js";
 import Chart from "chart.js/auto";
 import FlyinInText from "../../utils/Animations/FlyinInText";
-import Modal from "react-modal";
+import { generateChartData, languages } from "../../utils/Helpers";
 
 Chart.register(CategoryScale);
 
@@ -81,24 +81,6 @@ const Projects = () => {
     setVisible((prevPage) => prevPage + 4);
   };
 
-  const generateChartData = (stats) => {
-    const labels = stats.all.map((_, index) => index + 1);
-    const data = stats.all.map((value) => value);
-    return {
-      labels,
-      datasets: [
-        {
-          label: "Commits",
-          data,
-          borderColor: "rgba(75, 192, 192, 1)",
-          borderWidth: 2,
-
-          fill: false,
-        },
-      ],
-    };
-  };
-
   return (
     <div className='bg-gray-800 min-h-screen text-white'>
       <Header />
@@ -133,16 +115,11 @@ const Projects = () => {
               Sort
             </option>
             <option value=''>All</option>
-            <option value='JavaScript'>JavaScript</option>
-            <option value='TypeScript'>TypeScript</option>
-            <option value='Kotlin'>Kotlin</option>
-            <option value='HTML'>HTML</option>
-            <option value='CSS'>CSS</option>
-            <option value='Java'>Java</option>
-            <option value='C'>C</option>
-            <option value='C++'>C++</option>
-            <option value='C#'>C#</option>
-            <option value='PHP'>PHP</option>
+            {languages.map((language, index) => (
+              <option key={index} value={language}>
+                {language}
+              </option>
+            ))}
           </select>
         </div>
 
