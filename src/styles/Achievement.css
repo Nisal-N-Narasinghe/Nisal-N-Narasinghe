@@ -10,3 +10,46 @@
 .spinning-image {
   animation: spin 5s infinite linear; /* Adjust the duration and timing function as needed */
 }
+
+.certification-img:hover {
+  transform: scale(2);
+
+  transition: transform 1.6s ease;
+
+  -webkit-transform: scale(2);
+  -moz-transform: scale(2);
+  -ms-transform: scale(2);
+  -o-transform: scale(2);
+  -webkit-transition: transform 1.6s ease;
+  -moz-transition: transform 1.6s ease;
+  -ms-transition: transform 1.6s ease;
+  -o-transition: transform 1.6s ease;
+  -webkit-transform: scale(2);
+}
+
+/* For certifications */
+.certification-img-incoming {
+  animation: fadeInUp 2s ease forwards;
+  -webkit-animation: fadeInUp 2s ease forwards;
+}
+
+/* For GitHub achievements */
+.github-img {
+  animation: fadeInUp 2s ease forwards;
+  -webkit-animation: fadeInUp 2s ease forwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+    -webkit-transform: translateY(-50px);
+    -moz-transform: translateY(-50px);
+    -ms-transform: translateY(-50px);
+    -o-transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
