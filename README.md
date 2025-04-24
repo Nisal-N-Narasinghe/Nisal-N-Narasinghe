@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=flat-square&color=blue" />
 </p>
 
-Hi there! I’m a 24-year-old software engineering undergrad from 🇱🇰 Sri Lanka. I enjoy building dynamic full-stack apps and experimenting with intelligent agents and automation using modern tools like Laravel, Next.js, and LangGraph. Always learning. Always building. 🚀
+Hi there! I’m a software engineering undergrad from 🇱🇰 Sri Lanka. I enjoy building dynamic full-stack apps and experimenting with intelligent agents and automation using modern tools like Laravel, Next.js, and LangGraph. Always learning. Always building. 🚀
 
 ---
 
@@ -45,6 +45,7 @@ Hi there! I’m a 24-year-old software engineering undergrad from 🇱🇰 Sri L
 ### 🧩 Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -52,23 +53,21 @@ Hi there! I’m a 24-year-old software engineering undergrad from 🇱🇰 Sri L
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### ⚙️ DevOps & Tools
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CyberPanel](https://img.shields.io/badge/CyberPanel-0F131E?style=flat&logo=linux&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisal-N-Narasinghe&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nisal-N-Narasinghe&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
