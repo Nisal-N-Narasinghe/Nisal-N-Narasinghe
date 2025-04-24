@@ -1,109 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20There👋&fontSize=80&fontAlign=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20I'm%20Nisal!👋&fontSize=70&animation=twinkling" />
 
-# Narasinghe N.M.N.N - IT21259302
-### 💻I'm Nisal Narasinghe ![](https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=plastic&color=blue)
-<!-- ## I'm a Web Designer, Software Developer and a Tech Geek -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From SRI LANKA!!!
+# 👨‍💻 Nisal Narasinghe  
+### 💡 Full-Stack Developer | LLM Enthusiast | Software Engineering Undergrad  
 
-* 🎓 undergraduate at Sri Lanka Institute of Information Technology
-* ⚡ looking forward to creating a career in web & software development.
-* 👨🏻‍💻 currently learning everything 😅
-* ✨ Fun fact: love to travel
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=flat-square&color=blue" />
+</p>
 
+Hi there! I’m a 24-year-old software engineering undergrad from 🇱🇰 Sri Lanka. I enjoy building dynamic full-stack apps and experimenting with intelligent agents and automation using modern tools like Laravel, Next.js, and LangGraph. Always learning. Always building. 🚀
 
+---
+
+## 🚀 What I'm up to
+- 🎓 Studying BSc. in Software Engineering @ SLIIT
+- ⚙️ Working on Laravel-based web apps with Blade frontend integration
+- 🤖 Building LLM-powered agents for insurance risk analysis
+- 🔧 Self-hosting with CyberPanel, experimenting with microservices
+- 🌍 Exploring clean UI/UX with Tailwind & modern SPA transitions
+
+---
 
 ## 🌐 Connect with me  
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <div align="center">
-<a href="https://github.com/Nisal-N-Narasinghe" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- 
-  
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nisal.narasinghe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_nisal_n_narasinghe_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisal-narasinghe/) 
-</div>  
- 
-##  :hammer_and_wrench: Languages and Tools
- 
-### 🖌️ Frontend:  
-<div>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a> 
+  <a href="https://github.com/Nisal-N-Narasinghe"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nisal-narasinghe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_nisal_n_narasinghe_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/nisal.narasinghe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🧠 Languages & Technologies
 
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-### 🧑‍🔧 Backend: 
-<div>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px"  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" /></a> 
-</div>
+### 🧩 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-</td><td valign="top" width="33%">
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CyberPanel](https://img.shields.io/badge/CyberPanel-0F131E?style=flat&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
+---
 
+## 📈 GitHub Stats
 
-### :octocat: DevOps:
-<div>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-</div>
-  
-### 🔧 Testing:  
-  
- <div>
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-</td></tr></table>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nisal-N-Narasinghe&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>  
+---
 
-### 📊 :fire: My Stats :
-<div> 
+## ✨ Fun Fact
+I’m that developer who loves building something useful today... and rewriting it better tomorrow 😄  
+Bonus: I’m always down for spontaneous travel adventures 🧳🌍
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nisal-N-Narasinghe&theme=dark&background=000000&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false)
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&layout=compact&hide_border=true&langs_count=10"          alt="JustSong's Top Langs" width="37%" /> -->
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=compact&theme=tokyonight)
- 
-
-<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nisal-N-Narasinghe&theme=tokyonight) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-  
-
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisal-N-Narasinghe&layout=donut&theme=tokyonight)  -->
-
-  
-
-</div>
-<!--![ Alt text](gitcat.gif) -->
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
- -->
-<!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-
-
