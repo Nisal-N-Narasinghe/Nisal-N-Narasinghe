@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20I'm%20Nisal!👋&fontSize=70&animation=twinkling" />
 
 # 👨‍💻 Nisal Narasinghe  
-### 💡 Full-Stack Developer | Laravel Enthusiast | Software Engineering Undergrad  
+### 💡 Full-Stack Developer | Laravel Enthusiast | Software Engineering Undergraduate
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=flat-square&color=blue" />
