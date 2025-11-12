@@ -7,16 +7,16 @@
   <img src="https://komarev.com/ghpvc/?username=Nisal-N-Narasinghe&style=flat-square&color=blue" />
 </p>
 
-Hi there! I’m a software engineering undergrad from 🇱🇰 Sri Lanka. I enjoy building dynamic full-stack apps and experimenting with intelligent agents and automation using modern tools like Laravel, Next.js, and LangGraph. Always learning. Always building. 🚀
+Hey there! I’m a **Software Engineering graduate** from 🇱🇰 Sri Lanka with a passion for crafting dynamic full-stack applications and intelligent systems. I love blending **Laravel**, **Next.js**, and modern AI frameworks to create fast, meaningful, and scalable experiences. Always learning. Always building. 🚀
 
 ---
 
 ## 🚀 What I'm up to
-- 🎓 Studying BSc. in Software Engineering @ SLIIT
-- ⚙️ Working on Laravel-based web apps with Blade frontend integration
-- 🤖 Building LLM-powered agents for insurance risk analysis
-- 🔧 Self-hosting with CyberPanel, experimenting with microservices
-- 🌍 Exploring clean UI/UX with Tailwind & modern SPA transitions
+- 🎓 Graduated BSc. in Software Engineering @ SLIIT
+- ⚙️ Building Laravel + Next.js based full-stack apps
+- 🤖 Experimenting with LLM-powered agents for automation & risk analysis
+- 💡 Diving deeper into AI, APIs, and clean architecture
+- 🌍 Designing minimal, modern interfaces with Tailwind & SPA transitions
 
 ---
 
